@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="onboarding_welcome">Welcome to Expense Tracker 👋</string>
+    <string name="onboarding_subtitle">Let\'s set up your profile to start tracking your daily expenses.</string>
+    <string name="onboarding_name_label">Your Name</string>
+    <string name="onboarding_salary_label">Monthly Budget / Income</string>
+    <string name="onboarding_get_started">Get Started</string>
+    <string name="error_name_empty">Please enter your name</string>
+    <string name="error_salary_invalid">Please enter a valid monthly amount</string>
+</resources>
